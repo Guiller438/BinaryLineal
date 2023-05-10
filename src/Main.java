@@ -16,13 +16,13 @@ public class Main {
 
             }
         });
-        Busqueda arreglo = new Busqueda();
+        /**Busqueda arreglo = new Busqueda();
         int[] arr = arreglo.generateRandomArray(5, 0, 10);
         System.out.println("Arreglo desordenado :");
         arreglo.printArray(arr);
         System.out.println("Arreglo ordenado :");
         arreglo.orderArray(arr);
-        arreglo.printArray(arr);
+        arreglo.printArray(arr);**/
 
     }
 }
